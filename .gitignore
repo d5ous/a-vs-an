@@ -10,3 +10,4 @@ obj/
 *.received.txt
 *.approved.txt.bak
 *.orig
+AvsAn-Python/__pycache__/AvsAn.cpython-311.pyc
